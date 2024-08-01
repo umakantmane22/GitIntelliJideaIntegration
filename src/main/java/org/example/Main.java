@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Fetch Example!");
         System.out.println("Fetch - Mrege Example!!");
         System.out.println("Git Pull Example!");
+        System.out.println("Edit commit message!");
+        System.out.println("Edit commit message1!");
     }
 }
